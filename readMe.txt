@@ -1,5 +1,5 @@
 #Description: 
-This project here is to depict the working of packages in Java.
+This project here is to depict the working of packages/ sub-packages in Java.
 We can keep our source java files and compiled byte-codes in organised fashion.
 The same thing can be achieved easily by "Eclipse" or other IDE's- this is handled internally in them.
 
